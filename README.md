@@ -1,1 +1,1 @@
-# ecommerce-web-project
+# mysql-django-eommerce-website
